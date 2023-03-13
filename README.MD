@@ -5,10 +5,10 @@ Dockerfile is a declarative way of creating our own images. Docker will give us 
 File name should be Dockerfile.
 ### How to build image from Dockerfile
 
-'''
+```
 
 docker build -t [dockerhubURL]/[your-username]/[image-name]:version .
-'''
+```
 
 ### How to push image to dockerhub
 
