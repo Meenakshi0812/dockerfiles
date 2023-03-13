@@ -12,7 +12,7 @@ docker build -t [dockerhubURL]/[your-username]/[image-name]:version .
 
 ### How to push image to dockerhub
 
-***
+```
 docker push -t [dockerhubURL]/[your-username]/[image-name]:version
-***
+```
 
