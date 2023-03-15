@@ -1,0 +1,4 @@
+FROM almalinux
+ENV AUTHOR = "MEENAKSHI"\
+    DURATION = "25HRS"\
+    COURSE = "DOCKER"
